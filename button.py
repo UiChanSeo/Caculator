@@ -6,7 +6,6 @@ class ButtonInfo:
         self._width = width
         self._callback_fn = callback_fn
 
-
     @property
     def text(self):
         return self._text
